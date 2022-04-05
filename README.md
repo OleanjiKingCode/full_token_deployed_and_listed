@@ -1,0 +1,1 @@
+# full_token_deployed_and_listed
